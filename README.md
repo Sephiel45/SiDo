@@ -3,11 +3,10 @@ Our educational system have failed to achive full inclusion, promote diversity a
 
 We belive that lifelong learning can help promote gender equality, ensure equal access to employment, and ensure that everyone is included in the information socitey. 
 
--<a href="#problem">Problem</a>
 
 # Intro
 
-- [Problem](#Problem)
+- <a href="#problem">Problem</a>
 
 - [Solution](#Solution)
     - [How](#How)
@@ -16,7 +15,7 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
 - [Why not use apps that already exist??](#Why-not-use-apps-that-already-exist)
 - [Why Pakistan?](#Why-Pakistan)
     
-<a name="problem">Problem</a>
+<h2><a name="problem">Problem</a></h2>
 Zarina is a 39 old woman. She is from Pakistan. She has basic education, no profession, no job, 4 children, and almost no digital skills. However, what she has is an amazing talent for sewing. But Zarina faces many stereotypes and prejudices which force her to stay at home alone and care for her family.
 
 <img src="sdg.png">
