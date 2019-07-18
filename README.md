@@ -22,7 +22,7 @@ Zarina is a 39 old woman. She is from Pakistan. She has basic education, no prof
 
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
-# <a name="solution" style="text-decoration:none; color:none;">Solution</a>
+# <div id="solution">Solution</div>
 We want to create an application that gives the opportunity for women in Pakistan to learn how to sew in connection with communities and integrated hub place for trading and exchanging materials, patterns and selling finished products.
     
 ### How
