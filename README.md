@@ -17,12 +17,12 @@ We belive that lifelong learning can help promote gender equality, ensure equal 
     
 <h2><a name="problem" style="text-decoration:none">Problem</a></h2>
 Zarina is a 39 old woman. She is from Pakistan. She has basic education, no profession, no job, 4 children, and almost no digital skills. However, what she has is an amazing talent for sewing. But Zarina faces many stereotypes and prejudices which force her to stay at home alone and care for her family.
-
+ 
 <img src="sdg.png">
 
 Our solution can help Zarina to become an independent woman , who can learn about new clothing designs from around the world and use her talent in sewing to become an entrepreneur. 
     
-<h2><a name="solution" style="text-decoration:none">Solution</a></h2>
+# <h2><a name="solution" style="text-decoration:none">Solution</a></h2>
 We want to create an application that gives the opportunity for women in Pakistan to learn how to sew in connection with communities and integrated hub place for trading and exchanging materials, patterns and selling finished products.
     
 ### How
